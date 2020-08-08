@@ -1,0 +1,65 @@
+.Souligner { text-decoration: underline;}
+body{ padding-top: 150px; position: relative; margin-bottom: 0px; margin-left: auto; margin-right: auto; font-size: 14px; font-family: Georgia, 'Times New Roman', Times, serif; color: #030625; width: 1247px; }
+header { position: fixed; width: 100%; top:0 ; z-index: 10; }
+li.li_Nav a , div#Footer_Div a {text-decoration: none; color: white;}
+div#Nav_0 {display: block; width: auto ; margin-top: 0px; margin-bottom: 0px; margin-left: 50px;}
+div#Nav_{ background-color: #030625 ; position: relative ; margin: 0px 16px auto 0px; height: 154px; border-bottom:4px solid #105b34 ;width: 1247px;}
+div#Nav_ ul {position: absolute; right: 0px; bottom: 20px ; padding-right: 0px; margin: 0px; }
+ul li.li_Nav { position: relative ;top: 0px; color: white ; list-style-type: none; display: inline-block ; font-family: fantasy; padding: 15px; margin-right: 20px ; text-align: center; border: 1px white solid ; margin-left: 0px; }
+ul li.li_Nav a:hover { text-decoration: underline; color: #105b34; transition: 1s;}
+div#Para1 {background-color: #030625; width: 100%; padding: auto; margin-top: 0px; height: 308px;  position: relative; z-index: 1; }
+div#Para1 p {  width: auto; margin-top: 0px; color: #105b34 ; font-size: 50px; font-family: fantasy; text-align: center }
+body#body1 div#Para1 { background-image: url(./Images/Image_Acceuil_2.jpg); background-color: transparent ; }
+div#Footer_Div {  background-color:#030625 ;border-top: solid yellow 4px; height: 50px; position: absolute; bottom: 0px; left: 0px; right: 0px; padding: 0px; width: 100%; margin: 0px; }
+div#Footer_Div>ul { position: absolute; bottom: 16px; left: 0px; right: 0px; height: auto; padding-left:0px; padding-right: auto; width: 100%; margin: 0px; }
+div#Footer_Div li{ display: inline; list-style-type: none; color: white ; text-align: center; font-size: 14px; font-family: 'Arial Narrow Bold'; padding-top: 30px; margin: 22px 20px; }
+div#Footer_Div li#Copyr { position: absolute; right: 0px ; bottom: 0px; margin-top: 0px; margin-bottom: 0px;}
+p#Para2 { text-align: center; color: #030625; font-size: 18px; font-family: Georgia, 'Times New Roman', Times, serif; margin-top: 60px;}
+form{ width: 50%; margin: 20px auto 60px ; position: relative; color: #030625; margin-top: 40px; }
+span.Enfant1 , span.Enfant2 , span.Enfant3 , span.Enfant4 { display:inline-block ;margin: 10px}
+span.Enfant2 , span.Enfant3 { position: absolute ; right: 10px;}
+fieldset { color:#030625; border: solid 4px; margin-bottom: 10px; }
+Legend { color: #105b34; font-size:17px ; font-weight: bold; }
+footer {  position: relative; height: 134px;width: 100%; }
+div#Footer_Div0 img{ display: inline-block; margin-left: 45px; margin-top: 2px;  margin-right: 15px }
+div#Footer_Div0 { position: absolute; bottom: 56px; border-top: solid 4px #e1400e ; width: 100%; padding-right: auto; padding-left: auto;}
+body#body1 div#Para3 { width: 40%; position: absolute; top:700Px ; left: 100px;}
+body#body1 div#Image_Para3 { position: absolute; top:575Px ; right: 20px; background-color: #030625; width: 478px; height: 432px;}
+body#body1 div#Image_Para3 img {position: absolute; top:30Px ; right: 30px;}
+.Titre-occasion , body#body3 h1  { font-size: 35px; color: #105b34; margin-bottom:15px ;}
+body#body1 div#Para4 { width: 40%; position: absolute; top:1175Px ; right: 100px;}
+body#body1 div#Image_Para4 { position: absolute; top:1100Px ; left: 50px; background-color: yellow; width: 478px; height: 432px;}
+body#body1 div#Image_Para4 img {position: absolute; top:30Px ; right: 30px;}
+body#body1 div#Image_Para5 { width: 100%; height: 353px; margin-top: 1100px; background-color: #105b34; position: relative;}
+body#body1 div#Image_Para5 img { position: absolute; bottom: 50px; right: 30px;}
+body#body1 div#Para6 { text-align: center; background-color: #e9e9e9; color: #030625; margin: 20px; padding: 30px;}
+body#body1 span.Classe_para6 { display: block; width: 80%; margin-left: auto; margin-right: auto;}
+body#body1 p#Para6P { display: block; width: 150px; height: 50Px; border: #030625 2px solid; margin: 50px auto ; font-size: 18px; font-family: fantasy;}
+body#body1 p#Para6P a { display: block; text-decoration: none; margin: 10px auto ; color: #030625; }
+body#body1 p#Para6P a:hover { text-decoration: underline; color: #105b34; transition: 1s; }
+body#body1 div#Para6 li { display: inline-block; text-decoration: none; width: 25%; margin-right:45px ; padding: 20px ; border: #030625 2px solid ;}
+body#body2 div#Para1 { background-image: url(./Images/Image_Propos.jpg);  }
+body#body2 P#Para2 { width: 80%; text-align: center; margin-left: auto; margin-right: auto; font-weight: bold;}
+body#body2 div#Para3 , body#body2 div#Para4 , body#body2 div#Para5 { width: 80%; text-align: left ; padding-left: 50px ; margin: 30px;}
+body#body2 { background-color:#e9e9e9 ;}
+body#body2 div#Para5 { margin-bottom: 100Px;}
+body#body2 div#Para5 li { margin: 20px;}
+body#body2 h1 { color: #105b34;}
+body#body3 div#Para1 { background-image: url(./Images/Image_Acceuil_1.jpg); background-color: transparent;}
+body#body3 div#Para2 { margin-top: 70px; margin-left: 50px; width: 45%; } 
+body#body3 h1  { font-size: 25px; color: #105b34; margin-bottom:15px ;}
+body#body3 div#Image_Para2 { position: absolute; right: 20px; top:600px ; background-color: #eec2b5; width: 490px; height: 230px;}
+body#body3 div#Image_Para2 img { position: absolute; bottom: 40px; right: 45px;}
+body#body3 div#Para3 { width: 100%; height: 300px; background-color: #e9e9e9; margin-top: 80px; position: relative;}
+body#body3 div#Para3 img { position: absolute; top: 0px; left:60px ; display: inline; }
+body#body3 div#Para3 div#Parag3 { position: absolute; right: 80px ; top:55px ; width: 40%;}
+body#body3 div#Image_Para4 { position: absolute; top: 1300px; right: 350px ; background-color: #e9e9e9; width: 650px; height:340px ; z-index: 1;}
+body#body3 div#Para4 { position: relative; width: 40%; margin: 100px 20px ; z-index: 2;}
+body#body3 div#Image_Para4 img { position: absolute; bottom: 60px; left: 320px;}
+body#body3 li { margin-top: 20px;} 
+body#body3 div#Para5 { position: relative; width: 40%; margin: 200px 20px 240px 700px ;}
+body#body3 div#Image_Para5 { position: absolute; top:1750px; left: 60px; width: 504px; height: 336px; background-color: #b0cebe;}
+body#body3 div#Image_Para5 img { position: absolute ; right: 60px; bottom: 30px;}
+body#body3 div#Para6 { margin: 20Px 70px 100px ; width: 40%; }
+body#body3 div#Image_Para6 { position: absolute; top: 2100px; right: 0px; background-color: rgb(255, 255, 198); width: 480px; height: 319px;}
+body#body3 div#Image_Para6 img { position: absolute; top: 50px; right: 50px;}
